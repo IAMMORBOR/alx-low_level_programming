@@ -4,7 +4,7 @@
 #include "main.h"
 /**
  * _strcat - check the code for Alx school students.
- * @dst: argument of function.
+ * @dest: argument of function.
  * @src: argument of function.
  * Return: Always 0 (Success)
  */
